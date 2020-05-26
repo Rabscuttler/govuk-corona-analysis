@@ -1,7 +1,7 @@
 govuk-corona-analysis
 ==============================
 
-A short description of the project.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rabscuttler/govuk-corona-analysis/master)
 
 Project Organization
 ------------
