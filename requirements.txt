@@ -165,3 +165,10 @@ widgetsnbextension==3.5.1
 word2number==1.1
 wordcloud==1.6.0
 zipp==3.1.0
+bokeh
+gensim
+hdbscan
+ktrain
+mpld3
+openpyxl
+pyLDAvis
